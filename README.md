@@ -16,15 +16,30 @@
 - [常见问题](#常见问题)
 
 ---
-
+## 项目预览：
+### 部分前端页面：
 <img width="1914" height="1381" alt="image" src="https://github.com/user-attachments/assets/37b02fbf-f9ba-49a4-8f7d-cdf4acdf1caf" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/0d215562-86ff-4792-8edd-47386d8ccb3b" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/f19e9b03-23cd-4101-abb7-96086eaeabfa" />
+<img width="1911" height="646" alt="image" src="https://github.com/user-attachments/assets/7553c53b-502b-463d-9703-f2c64fccedbc" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/fbde81dd-36ae-42e6-9bfd-a43eb725cb73" />
 
+### 部分后台管理页面：
+![社团管理后台_申请管理](https://github.com/user-attachments/assets/ccd3dabe-d853-4460-a459-aae91fe62e98)
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/4614ce99-4003-41dc-91e0-4055f7bf72c1" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/bc91a458-53a1-4bf4-ae3f-3da958af59cb" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/99f3fca9-cbff-43e9-bf99-0a5e1f4c461f" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/2d992aac-4c47-4619-a064-8cf979327fbe" />
+<img width="1914" height="1780" alt="image" src="https://github.com/user-attachments/assets/4aa7d4e5-2552-4e44-8070-1ec7a690f9a4" />
 
-## 购买联系方式
+## 源码购买联系方式
 
-qq:770052238
+![15ffea3fd0043ae3e7a188c1b611d6b1](https://github.com/user-attachments/assets/feb164db-fc0f-4e9c-95cf-c2f9e45609f4)
 
-vx:alex522622
+## 购买包含内容：
+
+<img width="306" height="239" alt="image" src="https://github.com/user-attachments/assets/3cc357b3-e51f-4aa0-93a3-36a33e54f01e" />
+
 
 ## 项目概述
 
